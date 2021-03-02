@@ -1,4 +1,4 @@
-# HybrowlabsCode
+# Rushikesh1796.HybrowlabsCode
 
 Inventory Management System Using Django and Bootstrap
 
