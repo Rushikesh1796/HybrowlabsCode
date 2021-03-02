@@ -1,3 +1,6 @@
+
+
+
 # Rushikesh1796.HybrowlabsCode
 
 Inventory Management System Using Django and Bootstrap
@@ -17,3 +20,6 @@ From the given Use Cases I was able to create three of them was not able to crea
 ![hl5](https://user-images.githubusercontent.com/77450487/109628044-4cc92d00-7b68-11eb-8ddb-c3fa073122e8.jpg)
 
 
+Video Link 
+
+https://user-images.githubusercontent.com/77450487/109629965-67040a80-7b6a-11eb-9e17-013c82f1dbc9.mp4
